@@ -1,2 +1,2 @@
-user: USERNAME
-pwd: PASSWORD
+user: < USERNAME >
+pwd: < PASSWORD >
